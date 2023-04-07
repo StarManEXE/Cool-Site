@@ -1,0 +1,16 @@
+body{
+    background-image: url("space.png");
+    background-color: rgb(91, 81, 156);
+}
+
+h1{
+    color:rgb(170, 248, 149)
+}
+
+h2{
+    color:rgb(255, 153, 189)
+}
+
+p{
+    color:rgb(159, 201, 237)
+}
